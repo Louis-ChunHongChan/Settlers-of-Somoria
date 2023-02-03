@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Louis/Dropbox/PC/Documents/GitHub/Settlers-of-Somoria/SettlersOfSomoria/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Louis/Dropbox/PC/Documents/GitHub/Settlers-of-Somoria/SettlersOfSomoria/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+			]
+		}
+	]
+}
