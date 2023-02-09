@@ -1,0 +1,9 @@
+[0207/102822.529:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0207/140035.436:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0207/140035.443:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0207/140040.445:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0207/140040.471:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0207/140055.736:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0207/140055.739:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0207/140055.741:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0207/140055.743:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
